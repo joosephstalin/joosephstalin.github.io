@@ -296,6 +296,7 @@
         <p class="line-2">A Student at Rajagiri School of Engineering and Technology</p>
         <p class="line-3">Pursuing B.Tech in AI and Data Science</p>
         <p class="line-4">My hobbies: Football & Gaming</p>
+        <b><p class="line-6">Studied at Lords Academy CMI ICSE School :)  </p></b>
         <p class="line-5">I live in Thrissur, Kerala</p>
         
 
@@ -303,7 +304,7 @@
         <div class="section">
             <h2>My School Days</h2>
             <div class="gallery">
-                <b><p class="line-6">Lords Academy CMI ICSE School :)  </p></b>
+                
                 <img src="WhatsApp Image 2025-09-28 at 12.31.19_06a5a33c.jpg" alt="Lords Academy Graduation">
                 <img src="IMG-20240112-WA0116.jpg" alt="Friends at School">
             </div>
